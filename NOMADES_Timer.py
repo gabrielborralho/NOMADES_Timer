@@ -78,7 +78,7 @@ if __name__ == "__main__":
         root, fg='orange', bg='black', font=('Helvetica', 12))
     continuous_label.pack(pady=8)
 
-    max_countdown = 0.05 * 60
+    max_countdown = 15 * 60
     remaining_time = max_countdown
     start_time = time.time()
     running = True
