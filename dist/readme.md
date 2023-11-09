@@ -9,7 +9,7 @@ Este é um aplicativo de temporizador simples para o jogo Ark Survival Ascended 
 ## Preview
 Aqui está uma prévia de como é o app:
 
-![Preview](NOMADES_Timer/preview.png)
+![Preview](//preview.png)
 
 ## Funcionalidades
 
