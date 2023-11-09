@@ -1,7 +1,15 @@
-# NOMADES Timer
+# NOMADES_Timer - US
 
+This is a simple timer app for the game Ark Survival Ascended that can be used to track the elapsed time the server has been online and reset the timer as needed or automatically every 15 minute save. It has start, pause and reset buttons for easy timer control.
+
+# NOMADES Timer - PT-BR
 
 Este é um aplicativo de temporizador simples para o jogo Ark Survival Ascended que pode ser usado para rastrear o tempo decorrido em que o servidor esteve online e reiniciar o temporizador conforme necessário ou automaticamente a cada save de 15 minutos. Ele possui botões de iniciar, pausar e redefinir para controle fácil do temporizador.
+
+## Preview
+Aqui está uma prévia de como é o app:
+
+![Preview](NOMADES_Timer/preview.png)
 
 ## Funcionalidades
 
