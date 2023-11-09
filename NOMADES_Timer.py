@@ -50,9 +50,10 @@ def pause_timer():
 
 
 def reset_timer():
-    global remaining_time, continuous_elapsed_time
+    global remaining_time, continuous_elapsed_time, counter
     remaining_time = max_countdown
     continuous_elapsed_time = 0
+    counter = 1
     start_timer()
     print('Reset button pressed')
 
@@ -77,7 +78,7 @@ if __name__ == "__main__":
         root, fg='orange', bg='black', font=('Helvetica', 12))
     continuous_label.pack(pady=8)
 
-    max_countdown = 15 * 60
+    max_countdown = 0.05 * 60
     remaining_time = max_countdown
     start_time = time.time()
     running = True
