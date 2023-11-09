@@ -6,6 +6,11 @@ This is a simple timer app for the game Ark Survival Ascended that can be used t
 
 Este é um aplicativo de temporizador simples para o jogo Ark Survival Ascended que pode ser usado para rastrear o tempo decorrido em que o servidor esteve online e reiniciar o temporizador conforme necessário ou automaticamente a cada save de 15 minutos. Ele possui botões de iniciar, pausar e redefinir para controle fácil do temporizador.
 
+## Preview
+Aqui está uma prévia de como é o app:
+
+![Preview](preview.png)
+
 ## Funcionalidades
 
 - Iniciar o temporizador.
